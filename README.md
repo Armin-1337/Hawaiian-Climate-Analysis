@@ -18,5 +18,5 @@ A Flask API was created based on the first 2 analyses completed.
 ## **Screenshots (Graphs):**
 ![graph1.png](Images/precipitation.png)
 ![graph2.png](Images/temperature.png)
-![graph3.png](Images/trip_avg_temp.png)
 ![graph4.png](Images/daily_temps.png)
+![graph3.png](Images/trip_avg_temp.png)
